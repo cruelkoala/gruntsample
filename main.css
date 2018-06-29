@@ -1,0 +1,9 @@
+.letter {
+    display: inline-block;
+    width: 20px;
+    height: 25px;
+    margin-right: 2px;
+}
+.letter.closed {
+    background-color: #000;
+}
